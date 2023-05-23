@@ -1,8 +1,11 @@
 # FSM
 my day simulation:)
 
-This code represents a simulation of a Finite State Machine (FSM) that simulates my day. The FSM has several states such as sleeping, cleaning, eating, studying, playing  and transitions between these states based on random events and conditions.
+This code represents a simulation of a Finite State Machine (FSM) that simulates my day. The FSM has several states such as sleeping, cleaning, eating, studying, playing, coffee_cigaretts, rollerskating + transitions between these states based on random events and conditions.
 ![Screenshot (193)](https://github.com/moisamidi/FSM/assets/116157321/a12a0c9b-1938-4791-b02f-774c226bab4f)
+
+
+
 
 SOME RESULTS OF THE CODE:
 
